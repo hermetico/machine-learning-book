@@ -75,5 +75,5 @@ def adalinesgd(X,y):
     plt.ylabel('Average Cost')
     plt.show()
 
-#adalinegd(X,y)
+adalinegd(X,y)
 adalinesgd(X,y)
